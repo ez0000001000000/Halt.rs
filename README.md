@@ -109,6 +109,16 @@ Building multi-agent AI systems? You've probably faced these nightmares:
 
 ## 🚀 Quick Start
 
+### One-Line Install & Run
+
+**Try Halt.rs instantly:**
+
+```bash
+git clone https://github.com/ez0000001000000/Halt.rs && cd Halt.rs && cargo run -- serve --port 8080
+```
+
+*Requires Rust installed. Server starts on http://localhost:8080*
+
 ### Installation
 
 ```bash
